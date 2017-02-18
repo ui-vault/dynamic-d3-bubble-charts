@@ -1,0 +1,80 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 960px;
+    height: 900px;
+    position: relative;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+    position: center;
+}
+
+text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    fill: #003b4e;
+}
+
+text.label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    fill: #003b4e;
+    font-size: 13px;
+}
+
+.bubble-node {
+    cursor: pointer;
+}
+
+.bubble {
+    opacity: 0.7
+}
+
+.bubble-0 {
+    fill: #cddc39;
+}
+
+.bubble-1 {
+    fill: #399c1d;
+}
+
+.bubble-2 {
+    fill: #aacf32;
+    opacity: 0.85;
+}
+
+.bubble-3 {
+    fill: #9962c0;
+}
+
+.bubble-4 {
+    fill: #9ac2b9;
+    opacity: 0.85;
+}
+
+.bubble-5 {
+    fill: #f4aa00;
+}
+
+.bubble-6 {
+    fill: #00539f;
+    opacity: 0.85;
+}
+
+.bubble-7 {
+    fill: #caa900;
+}
+
+.bubble-8 {
+    fill: #cddc39;
+    opacity: 0.85;
+}
+
+.bubble-9 {
+    fill: #b2ebf2;
+}
+
+.bubble-10 {
+    fill: #009688;
+    opacity: 0.85;
+}
